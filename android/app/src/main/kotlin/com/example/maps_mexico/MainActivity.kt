@@ -1,4 +1,4 @@
-package com.example.maps_mexico
+package com.example.maps_routes
 
 import io.flutter.embedding.android.FlutterActivity
 

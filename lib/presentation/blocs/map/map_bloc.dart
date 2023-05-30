@@ -4,8 +4,8 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:maps_mexico/data/http_services.dart';
-import 'package:maps_mexico/presentation/blocs/location/location_bloc.dart';
+import 'package:maps_routes/data/http_services.dart';
+import 'package:maps_routes/presentation/blocs/location/location_bloc.dart';
 
 part 'map_event.dart';
 part 'map_state.dart';

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:maps_mexico/presentation/blocs/gps/gps_bloc.dart';
-import 'package:maps_mexico/presentation/blocs/location/location_bloc.dart';
-import 'package:maps_mexico/presentation/blocs/map/map_bloc.dart';
-import 'package:maps_mexico/presentation/pages/gps_enabled_page.dart';
-import 'package:maps_mexico/presentation/pages/map_page.dart';
-import 'package:maps_mexico/presentation/widgets/btn_paint_route.dart';
-import 'package:maps_mexico/presentation/widgets/btn_start_route.dart';
+import 'package:maps_routes/presentation/blocs/gps/gps_bloc.dart';
+import 'package:maps_routes/presentation/blocs/location/location_bloc.dart';
+import 'package:maps_routes/presentation/blocs/map/map_bloc.dart';
+import 'package:maps_routes/presentation/pages/gps_enabled_page.dart';
+import 'package:maps_routes/presentation/pages/map_page.dart';
+import 'package:maps_routes/presentation/widgets/btn_paint_route.dart';
+import 'package:maps_routes/presentation/widgets/btn_start_route.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

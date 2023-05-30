@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:maps_mexico/presentation/blocs/gps/gps_bloc.dart';
+import 'package:maps_routes/presentation/blocs/gps/gps_bloc.dart';
 
 class GpsEnabledPage extends StatelessWidget {
   const GpsEnabledPage({Key? key}) : super(key: key);

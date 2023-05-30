@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:maps_mexico/presentation/pages/painting_route.dart';
+import 'package:maps_routes/presentation/pages/painting_route.dart';
 
 class BtnPaintRoute extends StatelessWidget {
   const BtnPaintRoute({Key? key}) : super(key: key);

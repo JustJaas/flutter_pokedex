@@ -4,7 +4,7 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:maps_mexico/data/http_services.dart';
+import 'package:maps_routes/data/http_services.dart';
 
 part 'location_event.dart';
 part 'location_state.dart';
