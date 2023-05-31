@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-String baseUrl = "http://10.0.2.2:3000/api/start/getLocations";
+String baseUrl = "http://10.0.2.2:3000/api/locations/getLocations";
 
 getDataLocations() async {
   Uri fullUrl = Uri.parse(baseUrl);
